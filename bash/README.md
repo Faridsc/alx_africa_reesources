@@ -1,0 +1,1 @@
+# All bash related resources are going here 
